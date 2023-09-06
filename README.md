@@ -22,8 +22,8 @@
 
 <!-- GitHub stats -->
 <p align="center">
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kamronsaliev&locale=en&theme=nord&count_private=true&show_icons=true&hide=contribs,issues&card_width=495" alt="kamronsaliev" />
-   <br><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=kamronsaliev&locale=en&theme=nord&layout=compact&card_width=495" alt="kamronsaliev" />
-   <br><img src="https://github-readme-streak-stats.herokuapp.com/?user=kamronsaliev&theme=nord&count_private=true&no-bg=true&no-frame=true" alt="kamronsaliev" />
-   <br><img width="495pt" src="https://github-profile-trophy.vercel.app/?username=kamronsaliev&theme=nord&margin-w=7&title=Commits,Followers,Repositories,Stars,PullRequest&column=5" alt="kamronsaliev" />
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akilaydin&locale=en&theme=nord&count_private=true&show_icons=true&hide=contribs,issues&card_width=495" alt="akilaydin" />
+   <br><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=akilaydin&locale=en&theme=nord&layout=compact&card_width=495" alt="akilaydin" />
+   <br><img src="https://github-readme-streak-stats.herokuapp.com/?user=akilaydin&theme=nord&count_private=true&no-bg=true&no-frame=true" alt="akilaydin" />
+   <br><img width="495pt" src="https://github-profile-trophy.vercel.app/?username=akilaydin&theme=nord&margin-w=7&title=Commits,Followers,Repositories,Stars,PullRequest&column=5" alt="akilaydin" />
 </p>
