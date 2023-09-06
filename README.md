@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&&repeat=false&lines=Hi+%F0%9F%91%8B+My name is +Artem+Ovchinnikov;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&&repeat=false&lines=Hi+%F0%9F%91%8B+I'm+Artem+Ovchinnikov;"/>
 </h1>
 
 <!-- Description -->
