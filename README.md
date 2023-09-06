@@ -17,8 +17,8 @@
    <a href="https://leetcode.com/Akilaydin/" target="_blank">
       <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" />
    </a>
-    <a href="https://leetcode.com/Akilaydin/" target="_blank">
-      <img alt="LeetCode" src="https://img.shields.io/badge/Head_Hunter-FF0000" />
+    <a href="https://klimovsk.hh.ru/resume/ebc7222dff0c3886420039ed1f4f7a6a4b6875" target="_blank">
+      <img alt="hh.ru" src="https://img.shields.io/badge/Head_Hunter-FF0000" />
    </a>
    <img alt="Profile" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
 </p>
