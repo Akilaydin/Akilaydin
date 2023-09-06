@@ -17,6 +17,9 @@
    <a href="https://leetcode.com/Akilaydin/" target="_blank">
       <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" />
    </a>
+    <a href="https://leetcode.com/Akilaydin/" target="_blank">
+      <img alt="LeetCode" src="https://img.shields.io/badge/head_hunter_ru-8A2BE2" />
+   </a>
    <img alt="Profile" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
 </p>
 
