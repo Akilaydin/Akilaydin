@@ -1,12 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&&repeat=false&lines=Hi+%F0%9F%91%8B+I'm+Artem+Ovchinnikov;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&&repeat=false&lines=%F0%9F%91%8B+Hello!+I'm+Artem+Ovchinnikov;"/>
 </h1>
 
 <!-- Description -->
 <p align="center">
-   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="12"/> I am a Unity developer with 4 years of experience and a demonstrated history of <br> mobile game releases on <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" width="12"/> Apple App Store and <img src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" width="12"/> Google Play Store
-   <br><img src="https://cdn-icons-png.flaticon.com/512/609/609803.png" width="12"/> Currently living and working in Moscow, Russia
-   <br><img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" width="12"/> Here on GitHub I work on my projects for educational purposes
+   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="12"/> Professional Unity and .NET developer with solid experience and achievements.
 </p>
 
 <!-- Badges -->
