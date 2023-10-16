@@ -15,6 +15,9 @@
    <a href="https://leetcode.com/Akilaydin/" target="_blank">
       <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" />
    </a>
+    <a href="https://www.codewars.com/users/akilaydin" target="_blank">
+      <img alt="LeetCode" src="https://www.codewars.com/users/akilaydin/badges/micro" />
+   </a>
     <a href="https://klimovsk.hh.ru/resume/ebc7222dff0c3886420039ed1f4f7a6a4b6875" target="_blank">
       <img alt="hh.ru" src="https://img.shields.io/badge/Head_Hunter-FF0000" />
    </a>
