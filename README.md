@@ -25,7 +25,7 @@
 
 <p align="center">Links</p>
 <p align="center">
-   <a href="https://klimovsk.hh.ru/resume/c2246444ff0d8067450039ed1f377332776330" target="_blank">
+   <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459" target="_blank">
       <img alt="hh.ru" src="https://img.shields.io/badge/Head_Hunter-FF0000" />
    </a>
    <a href="https://www.linkedin.com/in/artem-ovchinnikov-00b8331bb" target="_blank">
