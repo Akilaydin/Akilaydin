@@ -4,7 +4,7 @@
 
 <!-- Description -->
 <h2 align="center">
-   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="20"/> Professional .NET developer with 5+ years of work experience and solid achievements.
+   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="20"/> Professional .NET developer with 6+ years of work experience and solid achievements.
 </h2>
 
 <p align="center">Technologies & Tools</p>
@@ -38,12 +38,4 @@
       <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" />
    </a>
    <img alt="Profile" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
-</p>
-
-<!-- GitHub stats -->
-<p align="center">
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akilaydin&locale=en&theme=nord&count_private=true&show_icons=true&hide=contribs,issues&card_width=495" alt="akilaydin" />
-   <br><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=akilaydin&locale=en&theme=nord&layout=compact&card_width=495" alt="akilaydin" />
-   <br><img src="https://github-readme-streak-stats.herokuapp.com/?user=akilaydin&theme=nord&count_private=true&no-bg=true&no-frame=true" alt="akilaydin" />
-   <br><img width="495pt" src="https://github-profile-trophy.vercel.app/?username=akilaydin&theme=nord&margin-w=7&title=Commits,Followers,Repositories,Stars,PullRequest&column=5" alt="akilaydin" />
 </p>
