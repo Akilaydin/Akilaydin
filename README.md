@@ -50,11 +50,11 @@
     </td>
     <td width="30%" align="center" valign="middle">
       <a href="https://github.com/totec448-spec/chat-on-steroids">
-        <img alt="Chat On Steroids stars" src="https://img.shields.io/github/stars/totec448-spec/chat-on-steroids?style=for-the-badge&logo=github&label=Stars" />
+        <img alt="Chat On Steroids stars" src="https://img.shields.io/github/stars/totec448-spec/chat-on-steroids?style=flat&logo=github&label=Stars" />
       </a>
       <br>
       <a href="https://github.com/totec448-spec/chat-on-steroids/pulls?q=is%3Apr+author%3AAkilaydin+is%3Amerged">
-        <img alt="4 merged PRs" src="https://img.shields.io/badge/4_merged_PRs-1F883D?style=for-the-badge&logo=github&logoColor=white" />
+        <img alt="4 merged PRs" src="https://img.shields.io/badge/Merged_PRs-4-1F883D?style=flat&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
