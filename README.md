@@ -1,20 +1,14 @@
-# Artem Ovchinnikov
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Abstract mountain banner" width="100%" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=27&duration=1400&pause=1000&color=F0F6FC&vCenter=true&repeat=false&width=1500&height=58&lines=Senior+backend+engineer+with+6%2B+years+of+experience%2C+working+on+a+platform+team+and+building+distributed+services+in+.NET." />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=27&duration=1400&pause=1000&color=1F2328&vCenter=true&repeat=false&width=1500&height=58&lines=Senior+backend+engineer+with+6%2B+years+of+experience%2C+working+on+a+platform+team+and+building+distributed+services+in+.NET." />
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=27&duration=1400&pause=1000&color=1F2328&vCenter=true&repeat=false&width=1500&height=58&lines=Senior+backend+engineer+with+6%2B+years+of+experience%2C+working+on+a+platform+team+and+building+distributed+services+in+.NET." alt="Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET." width="100%" />
-</picture>
+<h1 align="center">Artem Ovchinnikov</h1>
 
-- C# · .NET · Distributed systems
-- Writing on [Habr](https://habr.com/ru/users/akilayd/)
-- Active open-source contributor
+<h3 align="center">Senior .NET Backend Engineer · Platform Team</h3>
 
-<div>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
-</div>
+<p align="center">6+ years of experience building distributed services in .NET.</p>
 
-<div>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
@@ -23,11 +17,27 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</div>
+</p>
 
-### Open source
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
+</p>
 
-<div>
+---
+
+### What I Work On
+
+- Distributed .NET services and asynchronous workflows.
+- Platform/backend systems: messaging, databases, integrations, and observability.
+- Developer tooling and open-source integrations.
+
+### Featured Work
+
+- [**Chat On Steroids**](https://github.com/totec448-spec/chat-on-steroids) — open-source contributions to connector and desktop workflows.
+- [**Kibana MCP Server**](https://github.com/TocharianOU/mcp-server-kibana) — contributed Elasticsearch search through Kibana.
+- [**ChatGPT Bridge**](https://github.com/Akilaydin/Flow.Launcher.Plugin.ChatGPTBridge) — Flow Launcher plugin for opening prompts in ChatGPT Web.
+
+<p>
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAkilaydin+-user%3AAkilaydin">
     <img alt="External PRs opened" src="https://img.shields.io/badge/PRs_opened-22-0969DA?style=flat&logo=github" />
   </a>
@@ -37,25 +47,22 @@
   <a href="https://github.com/issues?q=is%3Aissue+author%3AAkilaydin+-user%3AAkilaydin">
     <img alt="External issues opened" src="https://img.shields.io/badge/Issues_opened-11-8250DF?style=flat&logo=github" />
   </a>
-  <img alt="External repositories contributed to" src="https://img.shields.io/badge/Repositories-15-57606A?style=flat&logo=github" />
-</div>
+</p>
 
-### Links
+### Writing
 
-<div>
-  <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459">
-    <img alt="hh.ru" src="https://img.shields.io/badge/Head_Hunter-FF0000" />
-  </a>
-  <a href="https://www.linkedin.com/in/artem-ovchinnikov-00b8331bb">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0084b1?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://habr.com/ru/users/akilayd/">
-    <img alt="Habr" src="https://img.shields.io/badge/Habr-65A3BE?style=flat&logo=habr&logoColor=white" />
-  </a>
-  <a href="https://www.codewars.com/users/akilaydin">
-    <img alt="Codewars" src="https://www.codewars.com/users/akilaydin/badges/micro" />
-  </a>
-  <a href="https://leetcode.com/Akilaydin/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" />
-  </a>
-</div>
+- [**Habr**](https://habr.com/ru/users/akilayd/) — technical articles.
+
+---
+
+<p align="center">
+  <a href="https://habr.com/ru/users/akilayd/">Habr</a>
+  ·
+  <a href="https://www.linkedin.com/in/artem-ovchinnikov-00b8331bb">LinkedIn</a>
+  ·
+  <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459">hh.ru</a>
+  ·
+  <a href="https://www.codewars.com/users/akilaydin">Codewars</a>
+  ·
+  <a href="https://leetcode.com/Akilaydin/">LeetCode</a>
+</p>
