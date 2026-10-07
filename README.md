@@ -48,7 +48,6 @@
       <strong><a href="https://github.com/totec448-spec/chat-on-steroids">Chat On Steroids</a></strong><br>
       <sub>Open-source contributor</sub><br><br>
       Contributions to desktop and browser workflows around ChatGPT integrations.<br><br>
-      <code>Browser bridge</code> · <code>Command policies</code> · <code>Tunnel reliability</code>
     </td>
     <td width="30%" align="center" valign="middle">
       <a href="https://github.com/totec448-spec/chat-on-steroids">
