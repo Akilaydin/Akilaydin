@@ -71,9 +71,13 @@
       Articles on software engineering and developer tools.
     </td>
     <td width="30%" align="center" valign="middle">
-      <img alt="4 articles" src="https://img.shields.io/badge/Articles-4-65A3BE?style=flat&logo=habr&logoColor=white" />
-      <img alt="9 followers" src="https://img.shields.io/badge/Followers-9-57606A?style=flat" />
-      <img alt="26 comments" src="https://img.shields.io/badge/Comments-26-57606A?style=flat" />
+      <a href="https://habr.com/ru/users/akilayd/publications/articles/">
+        <img alt="4 articles" src="https://img.shields.io/badge/Articles-4-65A3BE?style=for-the-badge&logo=habr&logoColor=white" />
+      </a>
+      <br><br>
+      <a href="https://habr.com/ru/users/akilayd/">
+        <img alt="9 followers" src="https://img.shields.io/badge/Followers-9-57606A?style=for-the-badge&logo=habr&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
