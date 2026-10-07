@@ -37,7 +37,7 @@
 - Platform/backend systems: messaging, databases, integrations, and observability.
 - Developer tooling and open-source integrations.
 
-### Featured Work
+### Open Source
 
 <table>
   <tr>
@@ -48,6 +48,10 @@
       <code>Browser bridge</code> · <code>Command policies</code> · <code>Tunnel reliability</code>
     </td>
     <td width="30%" align="center" valign="middle">
+      <a href="https://github.com/totec448-spec/chat-on-steroids">
+        <img alt="Chat On Steroids stars" src="https://img.shields.io/github/stars/totec448-spec/chat-on-steroids?style=for-the-badge&logo=github&label=Stars" />
+      </a>
+      <br><br>
       <a href="https://github.com/totec448-spec/chat-on-steroids/pulls?q=is%3Apr+author%3AAkilaydin+is%3Amerged">
         <img alt="4 merged PRs" src="https://img.shields.io/badge/4_merged_PRs-1F883D?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -83,16 +87,23 @@
     </td>
   </tr>
 </table>
+
 ---
 
 <p align="center">
-  <a href="https://habr.com/ru/users/akilayd/">Habr</a>
-  ·
-  <a href="https://www.linkedin.com/in/artem-ovchinnikov-00b8331bb">LinkedIn</a>
-  ·
-  <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459">hh.ru</a>
-  ·
-  <a href="https://www.codewars.com/users/akilaydin">Codewars</a>
-  ·
-  <a href="https://leetcode.com/Akilaydin/">LeetCode</a>
+  <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459">
+    <img alt="hh.ru" src="https://img.shields.io/badge/Head_Hunter-FF0000" />
+  </a>
+  <a href="https://www.linkedin.com/in/artem-ovchinnikov-00b8331bb">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0084b1?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://habr.com/ru/users/akilayd/">
+    <img alt="Habr" src="https://img.shields.io/badge/Habr-65A3BE?style=flat&logo=habr&logoColor=white" />
+  </a>
+  <a href="https://www.codewars.com/users/akilaydin">
+    <img alt="Codewars" src="https://www.codewars.com/users/akilaydin/badges/micro" />
+  </a>
+  <a href="https://leetcode.com/Akilaydin/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
 </p>
