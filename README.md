@@ -37,9 +37,12 @@
 - Platform/backend systems: messaging, databases, integrations, and observability.
 - Developer tooling and open-source integrations.
 
-### Open Source
-
 <table width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>Open Source</h3>
+    </td>
+  </tr>
   <tr>
     <td width="70%" valign="top">
       <strong><a href="https://github.com/totec448-spec/chat-on-steroids">Chat On Steroids</a></strong><br>
