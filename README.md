@@ -6,11 +6,11 @@
 - Writing on [Habr](https://habr.com/ru/users/akilayd/)
 - Active open-source contributor
 
-<p>
+<div>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
-</p>
+</div>
 
-<p>
+<div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
@@ -19,11 +19,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
+</div>
 
 ### Open source
 
-<p>
+<div>
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAkilaydin+-user%3AAkilaydin">
     <img alt="External PRs opened" src="https://img.shields.io/badge/PRs_opened-22-0969DA?style=flat&logo=github" />
   </a>
@@ -34,11 +34,11 @@
     <img alt="External issues opened" src="https://img.shields.io/badge/Issues_opened-11-8250DF?style=flat&logo=github" />
   </a>
   <img alt="External repositories contributed to" src="https://img.shields.io/badge/Repositories-15-57606A?style=flat&logo=github" />
-</p>
+</div>
 
 ### Links
 
-<p>
+<div>
   <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459">
     <img alt="hh.ru" src="https://img.shields.io/badge/Head_Hunter-FF0000" />
   </a>
@@ -54,4 +54,4 @@
   <a href="https://leetcode.com/Akilaydin/">
     <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" />
   </a>
-</p>
+</div>
