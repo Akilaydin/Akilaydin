@@ -4,7 +4,7 @@
 
 <h1 align="center">Artem Ovchinnikov</h1>
 
-<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="20" style="vertical-align: -3px;" /> · Senior .NET Backend Engineer · Platform Team</h3>
+<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="20" style="vertical-align: -11px;" /> · Senior .NET Backend Engineer · Platform Team</h3>
 
 <p align="center">
   <picture>
