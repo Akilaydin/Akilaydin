@@ -59,18 +59,6 @@
   </tr>
 </table>
 
-<p>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3AAkilaydin+-user%3AAkilaydin">
-    <img alt="External PRs opened" src="https://img.shields.io/badge/PRs_opened-22-0969DA?style=flat&logo=github" />
-  </a>
-  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AAkilaydin+-user%3AAkilaydin">
-    <img alt="External PRs merged" src="https://img.shields.io/badge/Merged_PRs-12-1F883D?style=flat&logo=github" />
-  </a>
-  <a href="https://github.com/issues?q=is%3Aissue+author%3AAkilaydin+-user%3AAkilaydin">
-    <img alt="External issues opened" src="https://img.shields.io/badge/Issues_opened-11-8250DF?style=flat&logo=github" />
-  </a>
-</p>
-
 ### Writing
 
 <table width="100%">
