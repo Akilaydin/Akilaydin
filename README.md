@@ -1,6 +1,8 @@
 # Artem Ovchinnikov
 ## Senior backend engineer on a platform team, building distributed services in .NET.
 
+**6+ years of professional software development experience.**
+
 <p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
 </p>
