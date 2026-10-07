@@ -57,11 +57,11 @@
       </a>
     </td>
   </tr>
-</table>
-
-### Writing
-
-<table width="100%">
+  <tr>
+    <td colspan="2">
+      <h3>Writing</h3>
+    </td>
+  </tr>
   <tr>
     <td width="70%" valign="top">
       <strong><a href="https://habr.com/ru/users/akilayd/">Habr</a></strong><br>
@@ -75,7 +75,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 <h3 align="center">Links</h3>
