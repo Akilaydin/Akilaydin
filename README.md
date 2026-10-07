@@ -84,6 +84,6 @@
   <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459"><img alt="hh.ru" src="https://img.shields.io/badge/Head_Hunter-FF0000" /></a>
   <a href="https://www.linkedin.com/in/artem-ovchinnikov-00b8331bb"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0084b1?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://habr.com/ru/users/akilayd/"><img alt="Habr" src="https://img.shields.io/badge/Habr-65A3BE?style=flat&logo=habr&logoColor=white" /></a>
-  <a href="https://www.codewars.com/users/akilaydin"><img alt="Codewars" src="https://www.codewars.com/users/akilaydin/badges/micro" /></a>
+  <a href="https://www.codewars.com/users/akilaydin"><img alt="Codewars rank" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fakilaydin&query=%24.ranks.overall.name&label=Codewars&logo=codewars&logoColor=white&color=B1361E&style=flat" /></a> <a href="https://www.codewars.com/users/akilaydin"><img alt="Codewars honor" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fakilaydin&query=%24.honor&label=Honor&logo=codewars&logoColor=white&color=57606A&style=flat" /></a>
   <a href="https://leetcode.com/Akilaydin/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
