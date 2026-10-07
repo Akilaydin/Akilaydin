@@ -37,18 +37,18 @@
 - Platform/backend systems: messaging, databases, integrations, and observability.
 - Developer tooling and open-source integrations.
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td colspan="2">
       <strong>Open Source</strong>
     </td>
   </tr>
   <tr>
-    <td width="70%" valign="top">
+    <td width="80%" valign="top">
       <strong><a href="https://github.com/totec448-spec/chat-on-steroids">Chat On Steroids</a></strong><br>
       <sub>Open-source contributor · Contributions to desktop and browser workflows around ChatGPT integrations.</sub>
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="20%" align="center" valign="middle">
       <sub><a href="https://github.com/totec448-spec/chat-on-steroids">
         <img alt="Chat On Steroids stars" src="https://img.shields.io/github/stars/totec448-spec/chat-on-steroids?style=flat&logo=github&label=Stars" />
       </a></sub>
@@ -64,11 +64,11 @@
     </td>
   </tr>
   <tr>
-    <td width="70%" valign="top">
+    <td width="80%" valign="top">
       <strong><a href="https://habr.com/ru/users/akilayd/">Habr</a></strong><br>
       <sub>Technical writing · Articles on software engineering and developer tools.</sub>
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="20%" align="center" valign="middle">
       <sub><a href="https://habr.com/ru/users/akilayd/publications/articles/"><img alt="4 articles" src="https://img.shields.io/badge/Articles-4-65A3BE?style=flat&logo=habr&logoColor=white" /></a></sub>
       <br>
       <sub><a href="https://habr.com/ru/users/akilayd/comments/"><img alt="26 comments" src="https://img.shields.io/badge/Comments-26-57606A?style=flat&logo=habr&logoColor=white" /></a></sub>
