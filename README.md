@@ -1,6 +1,10 @@
 # Artem Ovchinnikov
 
-<img src="./assets/tagline.svg" alt="Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET." width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Senior%20backend%20engineer%20with%206%2B%20years%20of%20experience%2C%20working%20on%20a%20platform%20team-nl-and%20building%20distributed%20services%20in%20.NET.&fontSize=27&fontAlign=41,23&fontColor=f0f6fc&animation=fadeIn&fontFamily=Segoe%20UI" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Senior%20backend%20engineer%20with%206%2B%20years%20of%20experience%2C%20working%20on%20a%20platform%20team-nl-and%20building%20distributed%20services%20in%20.NET.&fontSize=27&fontAlign=41,23&fontColor=1f2328&animation=fadeIn&fontFamily=Segoe%20UI" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Senior%20backend%20engineer%20with%206%2B%20years%20of%20experience%2C%20working%20on%20a%20platform%20team-nl-and%20building%20distributed%20services%20in%20.NET.&fontSize=27&fontAlign=41,23&fontColor=1f2328&animation=fadeIn&fontFamily=Segoe%20UI" alt="Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET." width="100%" />
+</picture>
 
 - C# · .NET · Distributed systems
 - Writing on [Habr](https://habr.com/ru/users/akilayd/)
