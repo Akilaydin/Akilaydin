@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </div>
 
-<strong>Open source</strong><br>
+### Open source
+
 <div>
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAkilaydin+-user%3AAkilaydin">
     <img alt="External PRs opened" src="https://img.shields.io/badge/PRs_opened-22-0969DA?style=flat&logo=github" />
@@ -35,7 +36,8 @@
   <img alt="External repositories contributed to" src="https://img.shields.io/badge/Repositories-15-57606A?style=flat&logo=github" />
 </div>
 
-<strong>Links</strong><br>
+### Links
+
 <div>
   <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459">
     <img alt="hh.ru" src="https://img.shields.io/badge/Head_Hunter-FF0000" />
