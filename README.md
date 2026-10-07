@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <strong><a href="https://habr.com/ru/users/akilayd/">Habr · @akilayd</a></strong><br>
+      <strong><a href="https://habr.com/ru/users/akilayd/">Habr</a></strong><br>
       <sub>Technical writing</sub><br><br>
       Articles on software engineering and developer tools.
     </td>
