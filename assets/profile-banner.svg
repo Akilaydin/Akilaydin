@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract mountain banner</title>
+  <desc id="desc">A muted mountain landscape banner for Artem Ovchinnikov's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dce6ec"/>
+      <stop offset="0.55" stop-color="#edf2f5"/>
+      <stop offset="1" stop-color="#cbd9e2"/>
+    </linearGradient>
+    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9aabb6"/>
+      <stop offset="1" stop-color="#c2cdd4"/>
+    </linearGradient>
+    <linearGradient id="mid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#708691"/>
+      <stop offset="1" stop-color="#9fb0b8"/>
+    </linearGradient>
+    <linearGradient id="near" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#415963"/>
+      <stop offset="1" stop-color="#6f838c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="210" fill="url(#sky)"/>
+  <circle cx="875" cy="54" r="42" fill="#ffffff" opacity="0.42"/>
+
+  <path d="M0 151 L110 88 L188 126 L282 60 L360 118 L447 72 L532 134 L620 79 L704 123 L796 68 L888 128 L977 82 L1060 126 L1140 76 L1200 111 L1200 210 L0 210 Z"
+        fill="url(#far)" opacity="0.8"/>
+  <path d="M0 170 L95 119 L173 156 L263 92 L352 153 L432 103 L515 164 L603 116 L693 158 L780 108 L871 160 L953 119 L1040 164 L1112 121 L1200 155 L1200 210 L0 210 Z"
+        fill="url(#mid)" opacity="0.86"/>
+  <path d="M0 187 L82 151 L148 179 L221 133 L300 182 L376 145 L456 187 L548 148 L632 184 L708 147 L798 189 L884 154 L961 186 L1041 151 L1120 186 L1200 160 L1200 210 L0 210 Z"
+        fill="url(#near)"/>
+
+  <g fill="#2f3d45" opacity="0.72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="5">
+    <text x="600" y="68" text-anchor="middle">DISTRIBUTED</text>
+    <text x="600" y="88" text-anchor="middle">BACKEND</text>
+    <text x="600" y="108" text-anchor="middle">SYSTEMS</text>
+    <text x="600" y="128" text-anchor="middle">.NET</text>
+  </g>
+  <rect x="584" y="143" width="32" height="2" rx="1" fill="#2f3d45" opacity="0.55"/>
+</svg>
