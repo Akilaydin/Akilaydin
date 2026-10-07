@@ -40,20 +40,19 @@
 <table width="100%">
   <tr>
     <td colspan="2">
-      <h3>Open Source</h3>
+      <strong>Open Source</strong>
     </td>
   </tr>
   <tr>
     <td width="70%" valign="top">
       <strong><a href="https://github.com/totec448-spec/chat-on-steroids">Chat On Steroids</a></strong><br>
-      <sub>Open-source contributor</sub><br><br>
-      Contributions to desktop and browser workflows around ChatGPT integrations.<br><br>
+      <sub>Open-source contributor · Contributions to desktop and browser workflows around ChatGPT integrations.</sub>
     </td>
     <td width="30%" align="center" valign="middle">
       <a href="https://github.com/totec448-spec/chat-on-steroids">
         <img alt="Chat On Steroids stars" src="https://img.shields.io/github/stars/totec448-spec/chat-on-steroids?style=for-the-badge&logo=github&label=Stars" />
       </a>
-      <br><br>
+      <br>
       <a href="https://github.com/totec448-spec/chat-on-steroids/pulls?q=is%3Apr+author%3AAkilaydin+is%3Amerged">
         <img alt="4 merged PRs" src="https://img.shields.io/badge/4_merged_PRs-1F883D?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -61,14 +60,13 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3>Writing</h3>
+      <strong>Writing</strong>
     </td>
   </tr>
   <tr>
     <td width="70%" valign="top">
       <strong><a href="https://habr.com/ru/users/akilayd/">Habr</a></strong><br>
-      <sub>Technical writing</sub><br><br>
-      Articles on software engineering and developer tools.
+      <sub>Technical writing · Articles on software engineering and developer tools.</sub>
     </td>
     <td width="30%" align="center" valign="middle">
       <img alt="4 articles" src="https://img.shields.io/badge/Articles-4-65A3BE?style=flat&logo=habr&logoColor=white" />
