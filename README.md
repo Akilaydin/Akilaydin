@@ -40,15 +40,14 @@
 <table width="100%">
   <tr>
     <td colspan="2">
-      <h3>Open Source</h3>
+      <strong>Open Source</strong>
     </td>
   </tr>
   <tr>
     <td width="70%" valign="top">
       <strong><a href="https://github.com/totec448-spec/chat-on-steroids">Chat On Steroids</a></strong><br>
-      <sub>Open-source contributor</sub><br><br>
-      Contributions to desktop and browser workflows around ChatGPT integrations.<br><br>
-      <code>Browser bridge</code> · <code>Command policies</code> · <code>Tunnel reliability</code>
+      <sub>Open-source contributor</sub><br>
+      Contributions to desktop and browser workflows around ChatGPT integrations.
     </td>
     <td width="30%" align="center" valign="middle">
       <a href="https://github.com/totec448-spec/chat-on-steroids">
@@ -62,13 +61,13 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3>Writing</h3>
+      <strong>Writing</strong>
     </td>
   </tr>
   <tr>
     <td width="70%" valign="top">
       <strong><a href="https://habr.com/ru/users/akilayd/">Habr</a></strong><br>
-      <sub>Technical writing</sub><br><br>
+      <sub>Technical writing</sub><br>
       Articles on software engineering and developer tools.
     </td>
     <td width="30%" align="center" valign="middle">
