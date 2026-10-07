@@ -1,7 +1,11 @@
 # Artem Ovchinnikov
-## Senior backend engineer on a platform team, building distributed services in .NET.
 
-**6+ years of professional software development experience.**
+## Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET.
+
+- C# / .NET backend, distributed systems, messaging and databases.
+- Active open-source contributor.
+- Technical articles on [Habr](https://habr.com/ru/users/akilayd/).
+- Former C# instructor and mentor.
 
 <p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
@@ -10,7 +14,6 @@
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -20,26 +23,18 @@
 
 ## Open source
 
-Active contributor to [Chat On Steroids](https://github.com/totec448-spec/chat-on-steroids).
-
-[![Merged PRs to Chat On Steroids](https://img.shields.io/github/issues-search/totec448-spec/chat-on-steroids?query=is%3Apr%20is%3Amerged%20author%3AAkilaydin&label=merged%20PRs&logo=github)](https://github.com/totec448-spec/chat-on-steroids/pulls?q=is%3Apr+author%3AAkilaydin+is%3Amerged)
-
-Also contributed [Elasticsearch search through Kibana](https://github.com/TocharianOU/mcp-server-kibana/pull/16) to [Kibana MCP Server](https://github.com/TocharianOU/mcp-server-kibana).
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Akilaydin&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&hide_rank=true&custom_title=GitHub%20contributions&theme=github_dark&disable_animations=true"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Akilaydin&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&hide_rank=true&custom_title=GitHub%20contributions&disable_animations=true"
-  />
-  <img
-    alt="GitHub contribution stats"
-    src="https://github-readme-stats.vercel.app/api?username=Akilaydin&hide=stars,commits,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&hide_rank=true&custom_title=GitHub%20contributions&disable_animations=true"
-  />
-</picture>
+<p>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AAkilaydin+-user%3AAkilaydin">
+    <img alt="External PRs opened" src="https://img.shields.io/badge/PRs_opened-22-0969DA?style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AAkilaydin+-user%3AAkilaydin">
+    <img alt="External PRs merged" src="https://img.shields.io/badge/Merged_PRs-12-1F883D?style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/issues?q=is%3Aissue+author%3AAkilaydin+-user%3AAkilaydin">
+    <img alt="External issues opened" src="https://img.shields.io/badge/Issues_opened-11-8250DF?style=flat&logo=github" />
+  </a>
+  <img alt="External repositories contributed to" src="https://img.shields.io/badge/Repositories-15-57606A?style=flat&logo=github" />
+</p>
 
 ## Links
 
