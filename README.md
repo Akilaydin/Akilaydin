@@ -41,23 +41,16 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="70%" valign="top">
       <strong><a href="https://github.com/totec448-spec/chat-on-steroids">Chat On Steroids</a></strong><br>
       <sub>Open-source contributor</sub><br><br>
-      Browser bridge settings, command policies, and tunnel-loss notifications.<br><br>
-      <img alt="4 merged PRs" src="https://img.shields.io/badge/4_merged_PRs-1F883D?style=flat&logo=github&logoColor=white" />
+      Contributions to desktop and browser workflows around ChatGPT integrations.<br><br>
+      <code>Browser bridge</code> · <code>Command policies</code> · <code>Tunnel reliability</code>
     </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/TocharianOU/mcp-server-kibana">Kibana MCP Server</a></strong><br>
-      <sub>Open-source contributor</sub><br><br>
-      Added Elasticsearch search through Kibana for read-only setups.<br><br>
-      <img alt="1 merged PR" src="https://img.shields.io/badge/1_merged_PR-1F883D?style=flat&logo=github&logoColor=white" />
-    </td>
-    <td width="34%" valign="top">
-      <strong><a href="https://github.com/Akilaydin/Flow.Launcher.Plugin.ChatGPTBridge">ChatGPT Bridge</a></strong><br>
-      <sub>Own project</sub><br><br>
-      Flow Launcher plugin for opening prompts in ChatGPT Web.<br><br>
-      <img alt="C# project" src="https://img.shields.io/badge/C%23_project-239120?style=flat&logo=csharp&logoColor=white" />
+    <td width="30%" align="center" valign="middle">
+      <a href="https://github.com/totec448-spec/chat-on-steroids/pulls?q=is%3Apr+author%3AAkilaydin+is%3Amerged">
+        <img alt="4 merged PRs" src="https://img.shields.io/badge/4_merged_PRs-1F883D?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
@@ -78,20 +71,18 @@
 
 <table>
   <tr>
-    <td width="34%" valign="top">
-      <strong><a href="https://habr.com/ru/users/akilayd/">Habr</a></strong><br>
-      <sub>4 articles</sub><br><br>
-      <img alt="Habr" src="https://img.shields.io/badge/Habr-65A3BE?style=flat&logo=habr&logoColor=white" />
+    <td width="65%" valign="top">
+      <strong><a href="https://habr.com/ru/users/akilayd/">Habr · @akilayd</a></strong><br>
+      <sub>Technical writing</sub><br><br>
+      Articles on software engineering and developer tools.
     </td>
-    <td width="66%" valign="top">
-      <strong><a href="https://habr.com/ru/articles/871858/">ChatGPT и молодое поколение</a></strong><br>
-      <sub>Featured article</sub><br><br>
-      <img alt="54K views" src="https://img.shields.io/badge/54K_views-57606A?style=flat" />
-      <img alt="+52 rating" src="https://img.shields.io/badge/rating-%2B52-1F883D?style=flat" />
+    <td width="35%" align="center" valign="middle">
+      <img alt="4 articles" src="https://img.shields.io/badge/Articles-4-65A3BE?style=flat&logo=habr&logoColor=white" />
+      <img alt="9 followers" src="https://img.shields.io/badge/Followers-9-57606A?style=flat" />
+      <img alt="26 comments" src="https://img.shields.io/badge/Comments-26-57606A?style=flat" />
     </td>
   </tr>
 </table>
-
 ---
 
 <p align="center">
