@@ -6,17 +6,16 @@
 
 <h3 align="center"><sub><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="20" /></sub> · Senior .NET Backend Engineer · Platform Team</h3>
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&duration=1700&pause=1000&color=8C959F&center=true&vCenter=true&repeat=false&width=760&height=42&lines=6%2B+years+of+experience+building+distributed+services+in+.NET." />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&duration=1700&pause=1000&color=57606A&center=true&vCenter=true&repeat=false&width=760&height=42&lines=6%2B+years+of+experience+building+distributed+services+in+.NET." />
     <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&duration=1700&pause=1000&color=57606A&center=true&vCenter=true&repeat=false&width=760&height=42&lines=6%2B+years+of+experience+building+distributed+services+in+.NET." alt="6+ years of experience building distributed services in .NET." />
   </picture>
-</p>
+</div>
 
-<p align="center"><sub>Tech stack</sub></p>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
@@ -25,7 +24,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
+</div>
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
