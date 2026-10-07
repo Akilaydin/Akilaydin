@@ -1,6 +1,6 @@
 # Artem Ovchinnikov
 
-## Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET.
+### Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET.
 
 - C# · .NET · Distributed systems
 - Writing on [Habr](https://habr.com/ru/users/akilayd/)
@@ -13,6 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -20,7 +21,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-## Open source
+### Open source
 
 <p>
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAkilaydin+-user%3AAkilaydin">
@@ -35,7 +36,7 @@
   <img alt="External repositories contributed to" src="https://img.shields.io/badge/Repositories-15-57606A?style=flat&logo=github" />
 </p>
 
-## Links
+### Links
 
 <p>
   <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459">
