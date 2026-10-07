@@ -49,6 +49,7 @@
       <sub>Open-source contributor · Contributions to desktop and browser workflows around ChatGPT integrations.</sub>
     </td>
     <td width="30%" align="center" valign="middle">
+      <br>
       <a href="https://github.com/totec448-spec/chat-on-steroids">
         <img alt="Chat On Steroids stars" src="https://img.shields.io/github/stars/totec448-spec/chat-on-steroids?style=flat&logo=github&label=Stars" />
       </a>
@@ -69,6 +70,7 @@
       <sub>Technical writing · Articles on software engineering and developer tools.</sub>
     </td>
     <td width="30%" align="center" valign="middle">
+      <br>
       <img alt="4 articles" src="https://img.shields.io/badge/Articles-4-65A3BE?style=flat&logo=habr&logoColor=white" />
       <img alt="9 followers" src="https://img.shields.io/badge/Followers-9-57606A?style=flat" />
       <img alt="26 comments" src="https://img.shields.io/badge/Comments-26-57606A?style=flat" />
