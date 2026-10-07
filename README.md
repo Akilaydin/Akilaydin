@@ -1,6 +1,6 @@
 # Artem Ovchinnikov
 
-### Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET.
+<img src="./assets/tagline.svg" alt="Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET." width="100%" />
 
 - C# · .NET · Distributed systems
 - Writing on [Habr](https://habr.com/ru/users/akilayd/)
