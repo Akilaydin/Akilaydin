@@ -39,7 +39,7 @@
 
 ### Open Source
 
-<table>
+<table width="100%">
   <tr>
     <td width="70%" valign="top">
       <strong><a href="https://github.com/totec448-spec/chat-on-steroids">Chat On Steroids</a></strong><br>
@@ -73,14 +73,14 @@
 
 ### Writing
 
-<table>
+<table width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="70%" valign="top">
       <strong><a href="https://habr.com/ru/users/akilayd/">Habr</a></strong><br>
       <sub>Technical writing</sub><br><br>
       Articles on software engineering and developer tools.
     </td>
-    <td width="35%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <img alt="4 articles" src="https://img.shields.io/badge/Articles-4-65A3BE?style=flat&logo=habr&logoColor=white" />
       <img alt="9 followers" src="https://img.shields.io/badge/Followers-9-57606A?style=flat" />
       <img alt="26 comments" src="https://img.shields.io/badge/Comments-26-57606A?style=flat" />
@@ -90,7 +90,7 @@
 
 ---
 
-### Links
+<h3 align="center">Links</h3>
 
 <p align="center">
   <a href="https://klimovsk.hh.ru/resume/f8a00003ff0e845fb80039ed1f6273796a4459">
