@@ -6,7 +6,13 @@
 
 <h3 align="center">Senior .NET Backend Engineer · Platform Team</h3>
 
-<p align="center">6+ years of experience building distributed services in .NET.</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=24&duration=1100&pause=1000&color=8C959F&center=true&vCenter=true&repeat=false&width=760&height=42&lines=6%2B+years+of+experience+building+distributed+services+in+.NET." />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=24&duration=1100&pause=1000&color=57606A&center=true&vCenter=true&repeat=false&width=760&height=42&lines=6%2B+years+of+experience+building+distributed+services+in+.NET." />
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=24&duration=1100&pause=1000&color=57606A&center=true&vCenter=true&repeat=false&width=760&height=42&lines=6%2B+years+of+experience+building+distributed+services+in+.NET." alt="6+ years of experience building distributed services in .NET." />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
