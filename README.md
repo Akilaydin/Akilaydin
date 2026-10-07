@@ -39,9 +39,28 @@
 
 ### Featured Work
 
-- [**Chat On Steroids**](https://github.com/totec448-spec/chat-on-steroids) — open-source contributions to connector and desktop workflows.
-- [**Kibana MCP Server**](https://github.com/TocharianOU/mcp-server-kibana) — contributed Elasticsearch search through Kibana.
-- [**ChatGPT Bridge**](https://github.com/Akilaydin/Flow.Launcher.Plugin.ChatGPTBridge) — Flow Launcher plugin for opening prompts in ChatGPT Web.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/totec448-spec/chat-on-steroids">Chat On Steroids</a></strong><br>
+      <sub>Open-source contributor</sub><br><br>
+      Browser bridge settings, command policies, and tunnel-loss notifications.<br><br>
+      <img alt="4 merged PRs" src="https://img.shields.io/badge/4_merged_PRs-1F883D?style=flat&logo=github&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/TocharianOU/mcp-server-kibana">Kibana MCP Server</a></strong><br>
+      <sub>Open-source contributor</sub><br><br>
+      Added Elasticsearch search through Kibana for read-only setups.<br><br>
+      <img alt="1 merged PR" src="https://img.shields.io/badge/1_merged_PR-1F883D?style=flat&logo=github&logoColor=white" />
+    </td>
+    <td width="34%" valign="top">
+      <strong><a href="https://github.com/Akilaydin/Flow.Launcher.Plugin.ChatGPTBridge">ChatGPT Bridge</a></strong><br>
+      <sub>Own project</sub><br><br>
+      Flow Launcher plugin for opening prompts in ChatGPT Web.<br><br>
+      <img alt="C# project" src="https://img.shields.io/badge/C%23_project-239120?style=flat&logo=csharp&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <p>
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAkilaydin+-user%3AAkilaydin">
@@ -57,7 +76,21 @@
 
 ### Writing
 
-- [**Habr**](https://habr.com/ru/users/akilayd/) — technical articles.
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <strong><a href="https://habr.com/ru/users/akilayd/">Habr</a></strong><br>
+      <sub>4 articles</sub><br><br>
+      <img alt="Habr" src="https://img.shields.io/badge/Habr-65A3BE?style=flat&logo=habr&logoColor=white" />
+    </td>
+    <td width="66%" valign="top">
+      <strong><a href="https://habr.com/ru/articles/871858/">ChatGPT и молодое поколение</a></strong><br>
+      <sub>Featured article</sub><br><br>
+      <img alt="54K views" src="https://img.shields.io/badge/54K_views-57606A?style=flat" />
+      <img alt="+52 rating" src="https://img.shields.io/badge/rating-%2B52-1F883D?style=flat" />
+    </td>
+  </tr>
+</table>
 
 ---
 
