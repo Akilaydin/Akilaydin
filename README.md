@@ -1,5 +1,4 @@
 # Artem Ovchinnikov
-
 ## Senior backend engineer on a platform team, building distributed services in .NET.
 
 <p>
