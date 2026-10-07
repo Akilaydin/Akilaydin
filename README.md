@@ -1,10 +1,20 @@
 # Artem Ovchinnikov
 
-**Senior backend engineer on a platform team, building distributed services in .NET.**
+### Senior backend engineer on a platform team, building distributed services in .NET.
+
+<p>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ## Open source
@@ -48,5 +58,4 @@ Also contributed [Elasticsearch search through Kibana](https://github.com/Tochar
   <a href="https://leetcode.com/Akilaydin/">
     <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" />
   </a>
-  <img alt="Profile" src="https://komarev.com/ghpvc/?username=akilaydin&label=Profile%20views&color=178600&style=flat" />
 </p>
