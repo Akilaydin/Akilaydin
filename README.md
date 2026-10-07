@@ -40,14 +40,15 @@
 <table width="100%">
   <tr>
     <td colspan="2">
-      <strong>Open Source</strong>
+      <h3>Open Source</h3>
     </td>
   </tr>
   <tr>
     <td width="70%" valign="top">
       <strong><a href="https://github.com/totec448-spec/chat-on-steroids">Chat On Steroids</a></strong><br>
-      <sub>Open-source contributor</sub><br>
-      Contributions to desktop and browser workflows around ChatGPT integrations.
+      <sub>Open-source contributor</sub><br><br>
+      Contributions to desktop and browser workflows around ChatGPT integrations.<br><br>
+      <code>Browser bridge</code> · <code>Command policies</code> · <code>Tunnel reliability</code>
     </td>
     <td width="30%" align="center" valign="middle">
       <a href="https://github.com/totec448-spec/chat-on-steroids">
@@ -61,23 +62,19 @@
   </tr>
   <tr>
     <td colspan="2">
-      <strong>Writing</strong>
+      <h3>Writing</h3>
     </td>
   </tr>
   <tr>
     <td width="70%" valign="top">
       <strong><a href="https://habr.com/ru/users/akilayd/">Habr</a></strong><br>
-      <sub>Technical writing</sub><br>
+      <sub>Technical writing</sub><br><br>
       Articles on software engineering and developer tools.
     </td>
     <td width="30%" align="center" valign="middle">
-      <a href="https://habr.com/ru/users/akilayd/publications/articles/">
-        <img alt="4 articles" src="https://img.shields.io/badge/Articles-4-65A3BE?style=for-the-badge&logo=habr&logoColor=white" />
-      </a>
-      <br><br>
-      <a href="https://habr.com/ru/users/akilayd/">
-        <img alt="9 followers" src="https://img.shields.io/badge/Followers-9-57606A?style=for-the-badge&logo=habr&logoColor=white" />
-      </a>
+      <img alt="4 articles" src="https://img.shields.io/badge/Articles-4-65A3BE?style=flat&logo=habr&logoColor=white" />
+      <img alt="9 followers" src="https://img.shields.io/badge/Followers-9-57606A?style=flat" />
+      <img alt="26 comments" src="https://img.shields.io/badge/Comments-26-57606A?style=flat" />
     </td>
   </tr>
 </table>
