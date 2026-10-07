@@ -1,9 +1,9 @@
 # Artem Ovchinnikov
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Senior%20backend%20engineer%20with%206%2B%20years%20of%20experience%2C%20working%20on%20a%20platform%20team-nl-and%20building%20distributed%20services%20in%20.NET.&fontSize=27&fontAlign=41,23&fontColor=f0f6fc&animation=fadeIn&fontFamily=Segoe%20UI" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Senior%20backend%20engineer%20with%206%2B%20years%20of%20experience%2C%20working%20on%20a%20platform%20team-nl-and%20building%20distributed%20services%20in%20.NET.&fontSize=27&fontAlign=41,23&fontColor=1f2328&animation=fadeIn&fontFamily=Segoe%20UI" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Senior%20backend%20engineer%20with%206%2B%20years%20of%20experience%2C%20working%20on%20a%20platform%20team-nl-and%20building%20distributed%20services%20in%20.NET.&fontSize=27&fontAlign=41,23&fontColor=1f2328&animation=fadeIn&fontFamily=Segoe%20UI" alt="Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET." width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=27&duration=2200&pause=1000&color=F0F6FC&vCenter=true&repeat=false&width=1500&height=50&lines=Senior+backend+engineer+with+6%2B+years+of+experience%2C+working+on+a+platform+team+and+building+distributed+services+in+.NET." />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=27&duration=2200&pause=1000&color=1F2328&vCenter=true&repeat=false&width=1500&height=50&lines=Senior+backend+engineer+with+6%2B+years+of+experience%2C+working+on+a+platform+team+and+building+distributed+services+in+.NET." />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=27&duration=2200&pause=1000&color=1F2328&vCenter=true&repeat=false&width=1500&height=50&lines=Senior+backend+engineer+with+6%2B+years+of+experience%2C+working+on+a+platform+team+and+building+distributed+services+in+.NET." alt="Senior backend engineer with 6+ years of experience, working on a platform team and building distributed services in .NET." width="100%" />
 </picture>
 
 - C# · .NET · Distributed systems
