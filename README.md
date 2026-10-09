@@ -55,7 +55,7 @@
       </a></sub>
       <br>
       <sub><a href="https://github.com/totec448-spec/chat-on-steroids/pulls?q=is%3Apr+author%3AAkilaydin+is%3Amerged">
-        <img alt="4 merged PRs" src="https://img.shields.io/badge/Merged_PRs-4-1F883D?style=flat&logo=github&logoColor=white" />
+        <img alt="Merged PRs" src="https://img.shields.io/github/issues-search?query=repo%3Atotec448-spec%2Fchat-on-steroids%20is%3Apr%20is%3Amerged%20author%3AAkilaydin&label=Merged%20PRs&color=1F883D&logo=github&logoColor=white" />
       </a></sub>
     </td>
   </tr>
